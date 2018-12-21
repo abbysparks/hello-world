@@ -3,4 +3,4 @@ first repository
 
 Hi there!
 
-Just messing aroudn with GitHub and figuring things out!
+Just messing around with GitHub and figuring things out!
